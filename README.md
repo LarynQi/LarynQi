@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 My name is Laryn and I'm a second-year studying Computer Science and Music at the University of California, Berkeley. I'm passionate about exploring the intersections of music, technology, and education. Here's what I've been up to recently:
 
-- 🏫 &nbsp; Taking Computer Security, Data Science, and Machine Learning for Music courses at UC Berkeley
+- 🏫 &nbsp; Learning Computer Security, Data Science, and Machine Learning for Music at UC Berkeley
 - 👨‍🏫 &nbsp; Teaching Cal's intro CS course, [CS61A](https://cs61a.org/), as a tutor and mentor
-- 💻 &nbsp; Learning full stack web development as a Software Developer in [Codebase](https://codebase.berkeley.edu/)
+- 💻 &nbsp; Building a full stack web app as a Software Developer in [Codebase](https://codebase.berkeley.edu/)
 - 💼 &nbsp; Working as Software Development Engineer Intern at &nbsp;<img src="https://img.shields.io/badge/-Amazon-FF9900?style=flat-square&logo=Amazon&logoColor=white"/>&nbsp; this summer
 - 🥁 &nbsp; Drumming whenever and wherever I can!
 <!-- <img src="https://raw.githubusercontent.com/LarynQi/LarynQi.github.io/master/assets/img/about/cb.ico" width=20 /> -->
